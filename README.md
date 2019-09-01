@@ -4,10 +4,14 @@ The task was to create a Sokoban solver using Uniform-Cost-Search and A*. I most
 as well as different helping methods. 
 
 This folder consist of two python files.
+
 node.py:
+
 The node class represent a state of the puzzle. With variables as path, cost, boardstring and player position it calculates the next possible states
 and create new successor nodes.
+
 search_algorithms.py:
+
 This is the file to run to check for solutions in a sokoban puzzle
 In console you can write: python search_algorithms.py "filename_of_sokoban_puzzle" "outfile_for_solution"
 search_algorithms.py has three methods.
