@@ -1,5 +1,5 @@
-# SokobanSolver
-First assignment in AI, COMP3702 at University of Queensland, which was a group project. 
+# SokobanSolver 
+First assignment in AI, COMP3702 at University of Queensland, which was a group project with Adrian, Nils-Gunnar and Christian. 
 The task was to create a Sokoban solver using Uniform-Cost-Search and A*. I mostly worked on implementing deadlock-detection
 as well as different helping methods. 
 
